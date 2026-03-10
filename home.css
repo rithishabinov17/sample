@@ -1,0 +1,87 @@
+body
+{
+background-image: url("./image/rr.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100vh;
+}
+img
+{
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+span
+{
+    color: rgb(0, 131, 109);
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.logo
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+a
+{
+text-transform: capitalize;
+    text-decoration: none;
+    
+    color: aliceblue;
+}
+#menu
+{
+    display: flex;
+    gap: 20px;
+}
+.y
+{
+    display:flex;
+    margin-left: 200px;
+}
+#s
+{
+    display: flex;
+  margin-left: 100px;  
+}
+h1{
+    margin-left: 5px;
+    font-size: 50px;
+    color: blueviolet;
+    max-width: 15ch;
+}
+p{
+    font-style: normal;
+    margin-left: 10px;
+    max-width: 45ch;
+    color: white;
+}
+button:hover{
+    background-color: rgb(43, 226, 104);
+    color: rgb(116, 11, 11);
+}
+.j{
+    
+    border: 3px solid red;
+    
+     width: 250px;
+    height:250px;
+    color: white;
+    margin-left: 700px;
+    margin-top: -325px;
+background-color: #195e47;
+}
+.v
+{
+    padding: 50px 60px 70px 40px;
+
+}
+
+.l:hover{
+    display: flex;
+    gap: 45px;
+    
+    
+}
